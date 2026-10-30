@@ -23,7 +23,7 @@ email = "wjackson@informatica.com"
 
 [build-system]
 build-backend = "uv_build"
-requires = ["uv-build>=0.9.11,<0.13.0"]
+requires = ["uv-build>=0.9.11,<0.14.0"]
 
 [dependency-groups]
 dev = [
